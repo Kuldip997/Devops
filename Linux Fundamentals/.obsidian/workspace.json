@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Terminal Basics.md",
+                "file": "file-system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Terminal Basics"
+              "title": "file-system"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal-Basics.md",
+                "file": "file-system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,9 +190,9 @@
   },
   "active": "26ac2ed81e62a85e",
   "lastOpenFiles": [
-    "Terminal-Basics.md",
     "Linux Terminal Basics.md",
-    "Untitled.md",
+    "file-system.md",
+    "Terminal-Basics.md",
     "Welcome.md"
   ]
 }
